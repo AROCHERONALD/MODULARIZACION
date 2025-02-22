@@ -1,0 +1,15 @@
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\bin\Debug\net8.0\Modularización.exe
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\bin\Debug\net8.0\Modularización.deps.json
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\bin\Debug\net8.0\Modularización.runtimeconfig.json
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\bin\Debug\net8.0\Modularización.dll
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\bin\Debug\net8.0\Modularización.pdb
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfoInputs.cache
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfo.cs
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.csproj.CoreCompileInputs.cache
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.sourcelink.json
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.dll
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\refint\Modularización.dll
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.pdb
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\Modularización.genruntimeconfig.cache
+C:\Users\RAAS\Desktop\REPOSITORIOS PROGRAMACION\Modularizaci-n\Modularización\Modularización\obj\Debug\net8.0\ref\Modularización.dll
